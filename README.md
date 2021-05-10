@@ -116,4 +116,4 @@ Read more about forking [here](https://docs.github.com/en/github/creating-clonin
 * [Education community forum](https://education.github.community/)
 * [GitHub community forum](https://github.community/)
 
-**Ya eh terminado este curso** : relajado : 
+**Ya eh terminado este curso** :relajado: 
